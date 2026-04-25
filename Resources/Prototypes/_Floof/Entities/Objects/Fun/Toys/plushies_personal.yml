@@ -1849,5 +1849,7 @@
     sound: *printer
   - type: EmitSoundOnLand
     sound: *printer
+  - type: EmitSoundOnCollide
+    sound: *printer
   - type: MeleeWeapon
     soundHit: *printer
