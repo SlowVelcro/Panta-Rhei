@@ -1845,8 +1845,6 @@
   - type: EmitSoundOnActivate
     sound: &printer
       path: /Audio/Machines/printer.ogg
-      params:
-        variation: 0.15
   - type: EmitSoundOnUse
     sound: *printer
   - type: EmitSoundOnLand
