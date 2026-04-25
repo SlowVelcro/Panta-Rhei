@@ -1850,4 +1850,4 @@
   - type: EmitSoundOnLand
     sound: *printer
   - type: MeleeWeapon
-    sound: *printer
+    soundHit: *printer
