@@ -2823,3 +2823,9 @@ Entries:
         round.
   id: 353
   time: '2026-05-15T11:24:36.0000000+00:00'
+- author: civilCornball
+  changes:
+    - type: Fix
+      message: Telepads now receive orders from all multitool-linked devices!
+  id: 354
+  time: '2026-05-15T11:27:05.0000000+00:00'
