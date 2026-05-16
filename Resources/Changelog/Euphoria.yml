@@ -2843,3 +2843,11 @@ Entries:
       message: Removed psionic regeneration trait
   id: 356
   time: '2026-05-15T13:49:57.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: The Petshop vendor now contains a few treats and a snack box.
+    - type: Tweak
+      message: Removed the placeholder snacks from the Petshop Vendor.
+  id: 357
+  time: '2026-05-16T03:16:32.0000000+00:00'
