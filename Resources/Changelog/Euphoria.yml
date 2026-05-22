@@ -3010,3 +3010,9 @@ Entries:
       message: Increased the max amount of prizes in a Space Villain Arcade Machine.
   id: 374
   time: '2026-05-21T14:49:11.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Fix
+      message: Security Cadets should no longer spawn with duplicate pieces of gear.
+  id: 375
+  time: '2026-05-22T11:12:02.0000000+00:00'
