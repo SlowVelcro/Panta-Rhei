@@ -3039,3 +3039,9 @@ Entries:
       message: Added the Jaunter - an Anti-Chasm tool with one-time use.
   id: 377
   time: '2026-05-23T04:30:23.0000000+00:00'
+- author: sprkl
+  changes:
+    - type: Tweak
+      message: Added contra labels to some items that were missing them.
+  id: 378
+  time: '2026-05-23T04:42:38.0000000+00:00'
