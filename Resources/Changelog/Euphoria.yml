@@ -3310,3 +3310,11 @@ Entries:
       message: Fixes various circuits in totes.
   id: 415
   time: '2026-05-31T11:45:45.0000000+00:00'
+- author: SyaoranFox
+  changes:
+    - type: Remove
+      message: Kitsune and Oni cannot understand cats by default
+    - type: Tweak
+      message: Freespeak description updated
+  id: 416
+  time: '2026-06-01T12:25:20.0000000+00:00'
