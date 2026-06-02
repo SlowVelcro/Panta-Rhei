@@ -3318,3 +3318,11 @@ Entries:
       message: Freespeak description updated
   id: 416
   time: '2026-06-01T12:25:20.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: >-
+        Buffed industrial reagent grinder capacity and added exact volume
+        viewing.
+  id: 417
+  time: '2026-06-02T17:23:48.0000000+00:00'
