@@ -3495,3 +3495,15 @@ Entries:
         capitalisation.
   id: 438
   time: '2026-06-09T21:06:14.0000000+00:00'
+- author: M3739
+  changes:
+    - type: Tweak
+      message: >-
+        Heavy flatpacks like the gas turbine flatpack can no longer have paper
+        labels attached to them.
+    - type: Fix
+      message: >-
+        Gas canisters now have working paper label sprites. Atmos and Logi shall
+        no longer be plagued by ERROR canisters.
+  id: 439
+  time: '2026-06-10T00:23:11.0000000+00:00'
