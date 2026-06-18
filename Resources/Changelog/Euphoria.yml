@@ -3696,3 +3696,9 @@ Entries:
       message: Fih poster.
   id: 461
   time: '2026-06-18T10:15:41.0000000+00:00'
+- author: Eagle0600
+  changes:
+    - type: Add
+      message: Three new traits that increase or decrease your natural regeneration.
+  id: 462
+  time: '2026-06-18T10:21:07.0000000+00:00'
