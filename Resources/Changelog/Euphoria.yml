@@ -3746,3 +3746,13 @@ Entries:
       message: Removed the EMP Preparedness mail. Silicons, rejoice!
   id: 468
   time: '2026-06-20T23:35:11.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: Coconut seeds for botany to grow.
+    - type: Add
+      message: >-
+        Coconuts can be mutated into Coconut Guns that take crafted Coconut
+        Pellets as ammo. These firearms act like BB Guns so watch your eyes.
+  id: 469
+  time: '2026-06-20T23:37:52.0000000+00:00'
