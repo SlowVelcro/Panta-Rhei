@@ -3788,3 +3788,13 @@ Entries:
       message: Paramedic bags are back in stock in the medical drobe.
   id: 474
   time: '2026-06-21T03:15:13.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: Coupons can be crafted or printer in the Document Printer for one paper.
+    - type: Add
+      message: >-
+        You can now make Paper Planes and Origami Swans in the construction
+        menu.
+  id: 475
+  time: '2026-06-21T07:50:23.0000000+00:00'
