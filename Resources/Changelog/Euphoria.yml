@@ -3826,3 +3826,11 @@ Entries:
         give out as they see fit.
   id: 478
   time: '2026-06-22T09:14:20.0000000+00:00'
+- author: SyaoranFox
+  changes:
+    - type: Add
+      message: Ability to modify thirst decay as part of traits
+    - type: Tweak
+      message: Add increased thirst to Enhanced Regeneration
+  id: 479
+  time: '2026-06-22T09:15:24.0000000+00:00'
