@@ -595,12 +595,12 @@
   parent: [ClothingUniformRollableBase, BaseSecurityContraband] # DeltaV - add rollable jumpsuits
   id: ClothingUniformJumpsuitSec
   name: security jumpsuit
-  description: Charcoal trousers and a dull red shirt, the standard-issue uniform of the infamous Station Security Department. # DeltaV - improved description
+  description: Near-black trousers and a bright red shirt, featuring the iconic chevrons-and-cuffs of Hestia Galactic's security department. # Euphoria - New description to match resprite
   components:
   - type: Sprite
-    sprite: _DV/Clothing/Uniforms/Jumpsuit/security.rsi # DeltaV - resprite
+    sprite: _Euphoria/Clothing/Uniforms/Jumpsuit/security.rsi # Euphoria - resprite
   - type: Clothing
-    sprite: _DV/Clothing/Uniforms/Jumpsuit/security.rsi # DeltaV - resprite
+    sprite: _Euphoria/Clothing/Uniforms/Jumpsuit/security.rsi # Euphoria - resprite
 
 - type: entity
   parent: ClothingUniformRollableBase # DeltaV - add rollable jumpsuits
