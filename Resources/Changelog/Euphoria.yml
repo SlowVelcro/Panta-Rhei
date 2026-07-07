@@ -4084,3 +4084,9 @@ Entries:
       message: Fixed fun!
   id: 509
   time: '2026-07-06T06:32:46.0000000+00:00'
+- author: kivdon
+  changes:
+    - type: Add
+      message: Added Sinta'Unathi/Draconic to Secondary Language traits.
+  id: 510
+  time: '2026-07-07T08:32:42.0000000+00:00'
