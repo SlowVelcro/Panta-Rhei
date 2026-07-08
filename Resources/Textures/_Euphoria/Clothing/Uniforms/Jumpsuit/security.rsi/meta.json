@@ -1,7 +1,7 @@
 {
-	"version": 1
-	"license": "CC0-1.0"
-	"copyright": "Sprited by SlowVelcro (GitHub) for Euphoria server and Panta-Rhei repository"
+	"version": 1,
+	"license": "CC0-1.0",
+	"copyright": "Sprited by SlowVelcro (GitHub) for Euphoria server and Panta-Rhei repository",
 	"size": {
 		"x": 32,
 		"y": 32
@@ -24,6 +24,22 @@
 			},
 			{
 				"name": "rolled-equipped-INNERCLOTHING",
+				"directions": 4
+			},
+			{
+				"name": "equipped-INNERCLOTHING-vox",
+				"directions": 4
+			},
+			{
+				"name": "rolled-equipped-INNERCLOTHING-vox",
+				"directions": 4
+			},
+			{
+				"name": "equipped-INNERCLOTHING-resomi",
+				"directions": 4
+			},
+			{
+				"name": "rolled-equipped-INNERCLOTHING-resomi",
 				"directions": 4
 			}
 		]
