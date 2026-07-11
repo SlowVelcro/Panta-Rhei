@@ -41,6 +41,14 @@
 			{
 				"name": "rolled-equipped-INNERCLOTHING-resomi",
 				"directions": 4
+			},
+			{
+				"name": "equipped-INNERCLOTHING-thaven",
+				"directions": 4
+			},
+			{
+				"name": "rolled-equipped-INNERCLOTHING-thaven",
+				"directions": 4
 			}
 		]
 }
